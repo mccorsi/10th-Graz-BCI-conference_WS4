@@ -7,7 +7,7 @@
 Workshop WS4 - Monday, September 14, 2026, 9:00am – 12:00pm (Graz Time) - room  HS P2, Petersgasse 16, Ground floor, 8010 Graz, Austria
 
 ## Organizers:
-- [Pierpaolo Sorrentino]([https://tristanvenot2.wordpress.com/](https://scholar.google.com/citations?user=T1k8qBsAAAAJ&hl=en)): Aix-Marseille Université, Marseille, France & Università degli Studi di Napoli Parthenope, Italy
+- [Pierpaolo Sorrentino](https://tristanvenot2.wordpress.com/](https://scholar.google.com/citations?user=T1k8qBsAAAAJ&hl=en): Aix-Marseille Université, Marseille, France & Università degli Studi di Napoli Parthenope, Italy
 - [Marie-Constance Corsi](https://marieconstance-corsi.netlify.app/): Inria Paris, NERV project-team, Paris Brain Institute, France
 
 ## Speakers:
