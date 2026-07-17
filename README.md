@@ -32,21 +32,21 @@ Overall, this workshop offers a timely overview spanning theory, methodological 
 
 ## Timetable
 
-| Time     | Temporary titles                                                                                | Speaker                              |
-| -------- | ----------------------------------------------------------------------------------------------- | ------------------------------------ |
-| 5’       | Welcome & opening remarks                                                                       | Organizers                           |
-|          | **Session 1 – Enriching information for better BCIs**                                           |                                      |
-| 15’ + 5’ | EEG–MEG Fusion for Motor Imagery BCI Using Deep Learning                                        | Giovanni Messuti                     |
-| 15’ + 5’ | Reproducible ensemble learning approaches for BCIs…and beyond!                                  | Marie-Constance Corsi                |
-|          | **Session 2 – Identifying new features/biomarkers**                                             |                                      |
-| 15’ + 5’ | Neural markers of effectiveness in mindfulness-based treatment of migraine                      | Pasquale Arpaia                      |
-| 15’ + 5’ | From sustained oscillations to bursts: revisiting beta sensorimotor rhythms                     | Jérémie Mattout                      |
-| 10'      | **Break**                                                                                       |                                      |
-|          | **Session 3 – Using other disciplines to inform BCI: the example of physics with criticality**  |                                      |
-| 15’ + 5’ | Identification of Windows of Consciousness via Criticality Markers in Resting-State EEG         | Tomko Settgast                       |
-| 15’ + 5’ | Neuronal avalanches as a tool for monitoring and BCI                                            | Pierpaolo Sorrentino & Camilla Mannino|
-|          | **Session 4 – Translating findings into the real world**                                        |                                      |
-| 15’ + 5’ | Automated and objective optimal refractive correction based on brain-computer interface         | Serafeim Perdikis                    |
-| 15’ + 5’ | Interactive Feature Selection for Clinical BCIs Using HappyFeat                                 | Arthur Desbois                       |
-| 5’       | Conclusion & closing remarks                                                                    | Organizers                           |
+| Time        | Temporary titles                                                                                | Speaker                              |
+| --------    | ----------------------------------------------------------------------------------------------- | ------------------------------------ |
+| 5’          | Welcome & opening remarks                                                                       | Organizers                           |
+|             | **Session 1 – Enriching information for better BCIs**                                           |                                      |
+| 15’ + 5’    | EEG–MEG Fusion for Motor Imagery BCI Using Deep Learning                                        | Giovanni Messuti                     |
+| 15’ + 5’    | Reproducible ensemble learning approaches for BCIs…and beyond!                                  | Marie-Constance Corsi                |
+|             | **Session 2 – Identifying new features/biomarkers**                                             |                                      |
+| 15’ + 5’    | Neural markers of effectiveness in mindfulness-based treatment of migraine                      | Pasquale Arpaia                      |
+| 15’ + 5’    | From sustained oscillations to bursts: revisiting beta sensorimotor rhythms                     | Jérémie Mattout                      |
+| 10'         | **Break**                                                                                       |                                      |
+|             | **Session 3 – Using other disciplines to inform BCI: the example of physics with criticality**  |                                      |
+| 15’ + 5’    | Identification of Windows of Consciousness via Criticality Markers in Resting-State EEG         | Tomko Settgast                       |
+| 15’ + 5’    | Neuronal avalanches as a tool for monitoring and BCI                                            | Pierpaolo Sorrentino & Camilla Mannino|
+|             | **Session 4 – Translating findings into the real world**                                        |                                      |
+| 15’ + 5’    | Automated and objective optimal refractive correction based on brain-computer interface         | Serafeim Perdikis                    |
+| 15’ + 5’    | Interactive Feature Selection for Clinical BCIs Using HappyFeat                                 | Arthur Desbois                       |
+| 5’          | Conclusion & closing remarks                                                                    | Organizers                           |
 
